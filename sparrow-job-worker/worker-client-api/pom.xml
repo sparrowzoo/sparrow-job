@@ -8,4 +8,10 @@
         <relativePath/>
     </parent>
     <artifactId>worker-client-api</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.sparrowzoo</groupId>
+            <artifactId>sparrow-protocol</artifactId>
+        </dependency>
+    </dependencies>
 </project>
